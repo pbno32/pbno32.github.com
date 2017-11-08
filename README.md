@@ -1,3 +1,2 @@
-# pbno32.github.com
-Pbno32 Blog
+# https://pbno32.github.io
 Interesting.
