@@ -952,7 +952,7 @@ hr {
     right: 15px;
     z-index: 1000;
     background: rgba(0,0,0,0.85);
-    height: 27px;
+    height: 30px;
     font-family: open-sans-regular;
     overflow: hidden;
     font-family: open-sans-regular;
@@ -960,23 +960,23 @@ hr {
 
 .chat.toggled {
     width: auto;
-    height: 350px;
+    height: 160px;
 }
 
 .chat-body {
     background: rgba(255, 255, 255, 0.7);
-    height: 277px;
+    height: 100px;
     overflow: auto;
     padding: 10px;
-    width: 300px;
+    width: 220px;
 }
 
 .chat .chat-body .media-body {
     min-width: 100px;
     background: #fff;
     color: #000;
-    min-height: 50px;
-    padding: 5px;
+    min-height: 40px;
+    padding: 6px;
     font-size: 11px;
 }
 
@@ -1015,15 +1015,16 @@ hr {
 .chat .chat-footer textarea {
     background: transparent;
     border: 0;
-    color: #333;
+    color: #000;
     box-shadow: none;
-    font-size: 12px;
+    font-size: 8px;
 }
 
 .chat .chat-footer [class*="pull-"] {
     color: #7A7A7A;
     font-size: 14px;
-    padding: 17px 7px;
+    font-style: normal;
+    padding: 4px 5px;
     margin: 0;
 }
 
